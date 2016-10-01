@@ -1,4 +1,4 @@
-package com.com.freewillrv.practice.tree;
+package com.freewillrv.practice.tree;
 
 public class FindMaxMin {
 
